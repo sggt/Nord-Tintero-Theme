@@ -40,22 +40,22 @@
 
   /* Main background colors */
   --dark-menu: #1e1e1e;
-  --dark-bg: #121212;
+  --dark-bg: #2e3440;
   --dark-secondary: #181818;
   --dark-tertiary: #222222;
   --dark-quaternary: #2d2d2d;
 
   /* Text colors */
-  --text-primary: #e6d7c2;
-  --text-secondary: #a98e6b;
+  --text-primary: #eceff4;
+  --text-secondary: #d8dee9;
   --text-tertiary: #a19591;
 
   /* Accent colors */
-  --accent-color: #c98a48;
-  --accent-color-hover: #e1a66b;
+  --accent-color: #6c99a6;
+  --accent-color-hover: #6c99a6;
 
   /* Border and button colors */
-  --border-color: #2d2d2d;
+  --border-color: #3b4252;
   --button-hover: #1e1e1e;
 
   /* ========================================
