@@ -13,8 +13,8 @@
     "minimal"
   ],
   "colors": {
-    "primary": "#c98a48",
-    "background": "#121212",
-    "text": "#e6d7c2"
+    "primary": "#d8dee9",
+    "background": "#2e3440",
+    "text": "#eceff4"
   }
 }
