@@ -1,10 +1,10 @@
 {
-  "name": "My Custom Theme",
-  "id": "my-custom-theme",
+  "name": "Nord-Tintero-Theme",
+  "id": "nord-tintero-theme",
   "version": "1.0.0",
-  "author": "Your Name",
-  "description": "A beautiful custom theme for Tintero",
-  "repository": "https://github.com/yourusername/tintero-theme-name",
+  "author": "sggt",
+  "description": "A nord theme inspired theme for Tintero",
+  "repository": "https://github.com/sggt/Nord-Tintero-Theme",
   "preview": "preview.png",
   "license": "MIT",
   "tags": [
